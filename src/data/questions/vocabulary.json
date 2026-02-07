@@ -1,0 +1,149 @@
+{
+  "passages": [],
+  "questions": [
+    {
+      "id": "vocab-q1",
+      "type": "vocabulary",
+      "difficulty": "easy",
+      "ritLevel": 185,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "The dog was so famished after the long walk that it ate three bowls of food. What does \"famished\" mean?",
+      "choices": [
+        { "label": "A", "text": "Tired" },
+        { "label": "B", "text": "Extremely hungry" },
+        { "label": "C", "text": "Excited" },
+        { "label": "D", "text": "Angry" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The context clue 'ate three bowls of food' tells us the dog was very hungry. 'Famished' means extremely hungry or starving."
+    },
+    {
+      "id": "vocab-q2",
+      "type": "vocabulary",
+      "difficulty": "easy",
+      "ritLevel": 187,
+      "skill": "synonyms-antonyms",
+      "skillLabel": "Synonyms and Antonyms",
+      "passageId": null,
+      "questionText": "Which word is an antonym (opposite) of \"enormous\"?",
+      "choices": [
+        { "label": "A", "text": "Huge" },
+        { "label": "B", "text": "Giant" },
+        { "label": "C", "text": "Tiny" },
+        { "label": "D", "text": "Large" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "An antonym is a word with the opposite meaning. 'Enormous' means very large, so its opposite is 'tiny,' which means very small. The other choices (huge, giant, large) are all synonyms of enormous."
+    },
+    {
+      "id": "vocab-q3",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "ritLevel": 198,
+      "skill": "prefixes-suffixes",
+      "skillLabel": "Prefixes and Suffixes",
+      "passageId": null,
+      "questionText": "The prefix \"un-\" means \"not.\" What does the word \"unfamiliar\" mean?",
+      "choices": [
+        { "label": "A", "text": "Very familiar" },
+        { "label": "B", "text": "Not known or recognized" },
+        { "label": "C", "text": "Related to family" },
+        { "label": "D", "text": "Friendly and welcoming" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The prefix 'un-' means 'not.' When added to 'familiar' (meaning known or recognized), it creates 'unfamiliar,' which means not known or not recognized."
+    },
+    {
+      "id": "vocab-q4",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "ritLevel": 200,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "The teacher commended the students for their excellent work on the science project. What does \"commended\" mean?",
+      "choices": [
+        { "label": "A", "text": "Punished" },
+        { "label": "B", "text": "Ignored" },
+        { "label": "C", "text": "Praised" },
+        { "label": "D", "text": "Questioned" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The context clue 'for their excellent work' suggests the teacher had a positive reaction. 'Commended' means praised or expressed approval."
+    },
+    {
+      "id": "vocab-q5",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "ritLevel": 202,
+      "skill": "multiple-meaning",
+      "skillLabel": "Multiple-Meaning Words",
+      "passageId": null,
+      "questionText": "Read this sentence: \"The pitcher threw the ball to first base.\" What does \"pitcher\" mean in this sentence?",
+      "choices": [
+        { "label": "A", "text": "A container for pouring liquids" },
+        { "label": "B", "text": "A baseball player who throws the ball" },
+        { "label": "C", "text": "A type of plant" },
+        { "label": "D", "text": "A musical instrument" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The word 'pitcher' has multiple meanings. In this sentence, the context clues 'threw the ball' and 'first base' tell us the sentence is about baseball, so 'pitcher' means the player who throws the ball."
+    },
+    {
+      "id": "vocab-q6",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "ritLevel": 210,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "Despite the team's initial reluctance, they eventually embraced the new strategy and it led to their victory. What does \"reluctance\" mean?",
+      "choices": [
+        { "label": "A", "text": "Eagerness to try something new" },
+        { "label": "B", "text": "Unwillingness or hesitation" },
+        { "label": "C", "text": "Ability to work together" },
+        { "label": "D", "text": "Confidence in a plan" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The word 'despite' signals a contrast — the team was reluctant at first but 'eventually embraced' the strategy. This contrast tells us that 'reluctance' means the opposite of embracing something: unwillingness or hesitation."
+    },
+    {
+      "id": "vocab-q7",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "ritLevel": 212,
+      "skill": "prefixes-suffixes",
+      "skillLabel": "Prefixes and Suffixes",
+      "passageId": null,
+      "questionText": "The suffix \"-ous\" means \"full of.\" Which word means \"full of danger\"?",
+      "choices": [
+        { "label": "A", "text": "Dangerous" },
+        { "label": "B", "text": "Endangered" },
+        { "label": "C", "text": "Dangerously" },
+        { "label": "D", "text": "Danger" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Adding the suffix '-ous' (meaning 'full of') to 'danger' creates 'dangerous,' which means full of danger. 'Endangered' uses a different prefix/suffix pattern, 'dangerously' is an adverb, and 'danger' is the base noun."
+    },
+    {
+      "id": "vocab-q8",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "ritLevel": 208,
+      "skill": "word-meaning",
+      "skillLabel": "Word Meaning",
+      "passageId": null,
+      "questionText": "The ancient ruins were a testament to the ingenuity of the civilization that built them. What does \"ingenuity\" mean?",
+      "choices": [
+        { "label": "A", "text": "Wealth and power" },
+        { "label": "B", "text": "Cleverness and inventive skill" },
+        { "label": "C", "text": "Physical strength" },
+        { "label": "D", "text": "Religious beliefs" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The sentence describes ancient ruins as a 'testament' (proof) of the builders' qualities. 'Ingenuity' means cleverness, creative ability, or inventive skill — the quality that allows people to design and build impressive structures."
+    }
+  ]
+}

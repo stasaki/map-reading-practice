@@ -1,0 +1,171 @@
+{
+  "passages": [
+    {
+      "id": "info-p1",
+      "title": "The Amazing Honeybee",
+      "text": "Honeybees are some of the most important insects on Earth. They live together in large groups called colonies, which can contain up to 60,000 bees. Each colony has three types of bees: the queen, the workers, and the drones. The queen's only job is to lay eggs — she can lay up to 2,000 eggs per day. Worker bees, which are all female, do everything else: they build the hive, collect nectar, make honey, and protect the colony. Drones are male bees whose main role is to mate with the queen.\n\nOne of the most remarkable things about honeybees is their ability to communicate. When a worker bee finds a good source of flowers, it returns to the hive and performs a special movement called a \"waggle dance.\" This dance tells other bees exactly where the flowers are and how far away they are. The direction the bee moves shows which way to fly, and the length of the dance tells the distance.\n\nHoneybees are also vital to our food supply. As they move from flower to flower collecting nectar, they spread pollen, which helps plants grow fruits and vegetables. Scientists estimate that bees help pollinate about one-third of the food we eat, including apples, almonds, and blueberries.",
+      "source": "Original passage",
+      "type": "informational"
+    },
+    {
+      "id": "info-p2",
+      "title": "The Water Cycle",
+      "text": "Water is always moving around our planet in a process called the water cycle. This cycle has no beginning or end — it just keeps going, recycling the same water over and over again. The water you drink today might have been part of a river thousands of years ago!\n\nThe water cycle has four main stages. First, evaporation occurs when the sun heats up water in oceans, lakes, and rivers, turning it from a liquid into water vapor (a gas) that rises into the air. Second, as water vapor rises higher into the atmosphere where it is cooler, it undergoes condensation — it changes back into tiny water droplets that group together to form clouds. Third, when the clouds become heavy with water droplets, precipitation occurs. The water falls back to Earth as rain, snow, sleet, or hail. Finally, the water that falls on land flows into streams, rivers, and eventually back into the ocean through a process called collection. Some water also soaks into the ground, where it is stored as groundwater.\n\nThe water cycle is essential for life on Earth. It provides fresh water for drinking, helps plants grow, and shapes our weather patterns. Without the water cycle, our planet would be a very different place.",
+      "source": "Original passage",
+      "type": "informational"
+    },
+    {
+      "id": "info-p3",
+      "title": "Our Solar System",
+      "text": "Our solar system is made up of the Sun and everything that orbits around it, including eight planets, dwarf planets, moons, asteroids, and comets. The Sun sits at the center, and its powerful gravity keeps everything in orbit.\n\nThe eight planets are divided into two groups. The four inner planets — Mercury, Venus, Earth, and Mars — are called terrestrial planets because they have solid, rocky surfaces. Mercury is the closest to the Sun and the smallest planet. Venus is the hottest planet because its thick atmosphere traps heat. Earth is the only planet known to support life. Mars, often called the \"Red Planet\" because of its reddish soil, has the tallest volcano in the solar system, Olympus Mons.\n\nThe four outer planets — Jupiter, Saturn, Uranus, and Neptune — are called gas giants (though Uranus and Neptune are sometimes called ice giants). Jupiter is the largest planet, so big that all the other planets could fit inside it. Saturn is famous for its beautiful rings made of ice and rock. Uranus is unique because it rotates on its side. Neptune, the farthest planet from the Sun, has the strongest winds in the solar system, reaching speeds of over 1,200 miles per hour.",
+      "source": "Original passage",
+      "type": "informational"
+    }
+  ],
+  "questions": [
+    {
+      "id": "info-q1",
+      "type": "informational",
+      "difficulty": "easy",
+      "ritLevel": 185,
+      "skill": "key-details",
+      "skillLabel": "Key Details",
+      "passageId": "info-p1",
+      "questionText": "What is the main job of the queen bee in a colony?",
+      "choices": [
+        { "label": "A", "text": "To collect nectar from flowers" },
+        { "label": "B", "text": "To protect the hive from enemies" },
+        { "label": "C", "text": "To lay eggs" },
+        { "label": "D", "text": "To perform the waggle dance" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage states that 'The queen's only job is to lay eggs — she can lay up to 2,000 eggs per day.'"
+    },
+    {
+      "id": "info-q2",
+      "type": "informational",
+      "difficulty": "medium",
+      "ritLevel": 200,
+      "skill": "main-idea",
+      "skillLabel": "Main Idea",
+      "passageId": "info-p1",
+      "questionText": "What is the main idea of the passage about honeybees?",
+      "choices": [
+        { "label": "A", "text": "Honeybees make delicious honey for people to eat" },
+        { "label": "B", "text": "Honeybees are remarkable insects that communicate, work together, and are vital to our food supply" },
+        { "label": "C", "text": "The waggle dance is the most interesting thing about bees" },
+        { "label": "D", "text": "Queen bees are the most important members of the colony" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage covers multiple aspects of honeybees: their colony structure, their communication through the waggle dance, and their importance to pollination and our food supply. Answer B best captures this overall main idea."
+    },
+    {
+      "id": "info-q3",
+      "type": "informational",
+      "difficulty": "hard",
+      "ritLevel": 210,
+      "skill": "cause-effect",
+      "skillLabel": "Cause and Effect",
+      "passageId": "info-p1",
+      "questionText": "According to the passage, what would most likely happen if there were no honeybees?",
+      "choices": [
+        { "label": "A", "text": "Flowers would become more colorful" },
+        { "label": "B", "text": "Other insects would immediately replace them" },
+        { "label": "C", "text": "About one-third of our food supply could be affected because plants would not be pollinated" },
+        { "label": "D", "text": "Nothing would change because bees are not important" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage states that 'bees help pollinate about one-third of the food we eat.' Without bees to spread pollen from flower to flower, many plants would not be able to produce fruits and vegetables, affecting our food supply."
+    },
+    {
+      "id": "info-q4",
+      "type": "informational",
+      "difficulty": "easy",
+      "ritLevel": 187,
+      "skill": "text-structure",
+      "skillLabel": "Text Structure",
+      "passageId": "info-p2",
+      "questionText": "How is the information in the water cycle passage mainly organized?",
+      "choices": [
+        { "label": "A", "text": "By comparing different types of water" },
+        { "label": "B", "text": "By listing problems and solutions" },
+        { "label": "C", "text": "By describing steps in a sequence" },
+        { "label": "D", "text": "By giving opinions about water" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage describes the water cycle as a sequence of four stages: evaporation, condensation, precipitation, and collection. Signal words like 'First,' 'Second,' 'Third,' and 'Finally' show the sequential organization."
+    },
+    {
+      "id": "info-q5",
+      "type": "informational",
+      "difficulty": "medium",
+      "ritLevel": 198,
+      "skill": "cause-effect",
+      "skillLabel": "Cause and Effect",
+      "passageId": "info-p2",
+      "questionText": "What causes water vapor to change back into water droplets?",
+      "choices": [
+        { "label": "A", "text": "The sun heats the water vapor" },
+        { "label": "B", "text": "The water vapor rises to cooler parts of the atmosphere" },
+        { "label": "C", "text": "The wind blows the water vapor around" },
+        { "label": "D", "text": "The water vapor mixes with ocean water" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage explains that 'as water vapor rises higher into the atmosphere where it is cooler, it undergoes condensation — it changes back into tiny water droplets.' The cooler temperature at higher altitudes causes the change."
+    },
+    {
+      "id": "info-q6",
+      "type": "informational",
+      "difficulty": "medium",
+      "ritLevel": 202,
+      "skill": "compare-contrast",
+      "skillLabel": "Compare and Contrast",
+      "passageId": "info-p3",
+      "questionText": "How are the inner planets different from the outer planets?",
+      "choices": [
+        { "label": "A", "text": "The inner planets are larger than the outer planets" },
+        { "label": "B", "text": "The inner planets have solid, rocky surfaces while the outer planets are gas or ice giants" },
+        { "label": "C", "text": "The inner planets have rings but the outer planets do not" },
+        { "label": "D", "text": "The inner planets are colder than the outer planets" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage states that the inner planets 'are called terrestrial planets because they have solid, rocky surfaces' while the outer planets 'are called gas giants.' This is the key difference described in the text."
+    },
+    {
+      "id": "info-q7",
+      "type": "informational",
+      "difficulty": "hard",
+      "ritLevel": 212,
+      "skill": "authors-purpose",
+      "skillLabel": "Author's Purpose",
+      "passageId": "info-p3",
+      "questionText": "What is the author's main purpose in writing this passage?",
+      "choices": [
+        { "label": "A", "text": "To persuade readers that space exploration is important" },
+        { "label": "B", "text": "To entertain readers with a story about the planets" },
+        { "label": "C", "text": "To inform readers about the planets in our solar system and their characteristics" },
+        { "label": "D", "text": "To argue that Earth is the best planet in the solar system" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage presents factual information about each planet's characteristics in a straightforward way. The author's purpose is to inform and educate readers about the solar system, not to persuade, entertain, or argue a point."
+    },
+    {
+      "id": "info-q8",
+      "type": "informational",
+      "difficulty": "hard",
+      "ritLevel": 208,
+      "skill": "key-details",
+      "skillLabel": "Key Details",
+      "passageId": "info-p3",
+      "questionText": "Which planet has the tallest volcano in the solar system?",
+      "choices": [
+        { "label": "A", "text": "Earth" },
+        { "label": "B", "text": "Jupiter" },
+        { "label": "C", "text": "Venus" },
+        { "label": "D", "text": "Mars" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "The passage states that 'Mars, often called the \"Red Planet\" because of its reddish soil, has the tallest volcano in the solar system, Olympus Mons.'"
+    }
+  ]
+}

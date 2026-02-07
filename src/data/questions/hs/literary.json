@@ -1,0 +1,171 @@
+{
+  "passages": [
+    {
+      "id": "hs-lit-p1",
+      "title": "The Yellow Wallpaper (Excerpt)",
+      "text": "I sometimes fancy that in my condition if I had less opposition and more society and stimulus — but John says the very worst thing I can do is to think about my condition, and I confess it always makes me feel bad.\n\nSo I will let it alone and talk about the house. The most beautiful place! It is quite alone, standing well back from the road, quite three miles from the village. It makes me think of English places that you read about, for there are hedges and walls and gates that lock, and lots of separate little houses for the gardeners and people.\n\nThere is a delicious garden! I never saw such a garden — large and shady, full of box-bordered paths. I should hate it if John and I had it for the summer. He is very careful and loving, and hardly lets me stir without special direction. I have a schedule for each hour of the day; he takes all care from me, and so I feel basely ungrateful not to value it more.",
+      "source": "Charlotte Perkins Gilman, 1892 (adapted)",
+      "type": "literary"
+    },
+    {
+      "id": "hs-lit-p2",
+      "title": "Ozymandias",
+      "text": "I met a traveller from an antique land,\nWho said — \"Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,\nThe hand that mocked them, and the heart that fed;\nAnd on the pedestal, these words appear:\nMy name is Ozymandias, King of Kings;\nLook on my Works, ye Mighty, and despair!\nNothing beside remains. Round the decay\nOf that colossal Wreck, boundless and bare\nThe lone and level sands stretch far away.\"",
+      "source": "Percy Bysshe Shelley, 1818",
+      "type": "literary"
+    },
+    {
+      "id": "hs-lit-p3",
+      "title": "The Open Window",
+      "text": "\"My aunt will be down presently, Mr. Nuttel,\" said a very self-possessed young lady of fifteen; \"in the meantime you must try and put up with me.\"\n\nFramton Nuttel endeavoured to say the correct something which should duly flatter the niece of the moment without unduly discounting the aunt that was to come. Privately he doubted more than ever whether these formal visits on a succession of total strangers would do much towards helping the nerve cure which he was supposed to be undergoing.\n\n\"Do you know many of the people round here?\" asked the niece, when she judged that they had had sufficient silent communion.\n\n\"Hardly a soul,\" said Framton. \"My sister was staying here, at the rectory, you know, some four years ago, and she gave me letters of introduction to some of the people here.\"\n\nHe made the last statement in a tone of distinct regret.",
+      "source": "Saki (H.H. Munro), 1914 (adapted)",
+      "type": "literary"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hs-lit-q1",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 232,
+      "skill": "unreliable-narrator",
+      "skillLabel": "Unreliable Narrator",
+      "passageId": "hs-lit-p1",
+      "questionText": "What contradiction in the narrator's feelings suggests she may not fully trust her own perspective?",
+      "choices": [
+        { "label": "A", "text": "She describes the garden as delicious but says she hates it" },
+        { "label": "B", "text": "She calls John careful and loving, yet feels controlled by his schedule" },
+        { "label": "C", "text": "She says the house is beautiful but complains about its distance from the village" },
+        { "label": "D", "text": "She enjoys writing but refuses to talk about her condition" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The narrator simultaneously praises John as 'careful and loving' while revealing he 'hardly lets me stir without special direction' and dictates her schedule. This tension between her stated gratitude and described confinement reveals an unreliable self-assessment shaped by her disempowered position."
+    },
+    {
+      "id": "hs-lit-q2",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 245,
+      "skill": "theme-synthesis",
+      "skillLabel": "Theme Synthesis",
+      "passageId": "hs-lit-p2",
+      "questionText": "Which statement best captures the central irony of \"Ozymandias\"?",
+      "choices": [
+        { "label": "A", "text": "The traveller never actually visited the desert himself" },
+        { "label": "B", "text": "The sculptor created a work more enduring than the king's empire" },
+        { "label": "C", "text": "The king's boast of eternal power is surrounded by nothing but empty desert" },
+        { "label": "D", "text": "The poem is told secondhand, making its truth uncertain" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The central irony is that Ozymandias commanded others to 'Look on my Works... and despair!' yet 'Nothing beside remains' — the inscription demanding awe at his power sits amid total desolation, undercutting its own message and illustrating the impermanence of earthly power."
+    },
+    {
+      "id": "hs-lit-q3",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 248,
+      "skill": "rhetorical-analysis",
+      "skillLabel": "Rhetorical Analysis",
+      "passageId": "hs-lit-p1",
+      "questionText": "How does the narrator's description of the house and garden function rhetorically in the passage?",
+      "choices": [
+        { "label": "A", "text": "It establishes the setting as a gothic horror location" },
+        { "label": "B", "text": "It serves as a displacement — discussing surroundings to avoid confronting her condition" },
+        { "label": "C", "text": "It demonstrates her keen observational skills as a writer" },
+        { "label": "D", "text": "It foreshadows the eventual decay of the property" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The narrator explicitly states 'So I will let it alone and talk about the house' — pivoting from her forbidden self-reflection to detailed environmental description. This rhetorical displacement reveals how John's prohibition against thinking about her condition redirects her analytical energy toward her surroundings."
+    },
+    {
+      "id": "hs-lit-q4",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 255,
+      "skill": "symbolism",
+      "skillLabel": "Symbolism",
+      "passageId": "hs-lit-p2",
+      "questionText": "In \"Ozymandias,\" the phrase \"The hand that mocked them, and the heart that fed\" most likely refers to:",
+      "choices": [
+        { "label": "A", "text": "The traveller who discovered the ruins and the king who built them" },
+        { "label": "B", "text": "The sculptor's skill in capturing the king's expressions, and the king's passions that inspired them" },
+        { "label": "C", "text": "Death's hand that destroyed the statue and the desert that consumed it" },
+        { "label": "D", "text": "The poet's craft and the reader's emotional response" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'The hand that mocked them' refers to the sculptor's hand that imitated (mocked = copied) the king's passions in stone, while 'the heart that fed' refers to the king's heart that nourished those commanding passions. The sculptor's art outlasted the king's power — the passions 'yet survive' only because of artistic representation."
+    },
+    {
+      "id": "hs-lit-q5",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 235,
+      "skill": "characterization",
+      "skillLabel": "Characterization",
+      "passageId": "hs-lit-p3",
+      "questionText": "Based on the passage, which word best describes Framton Nuttel's state of mind?",
+      "choices": [
+        { "label": "A", "text": "Enthusiastic" },
+        { "label": "B", "text": "Anxious and uncomfortable" },
+        { "label": "C", "text": "Curious and engaged" },
+        { "label": "D", "text": "Angry and resentful" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Framton is undergoing a 'nerve cure,' doubts whether visiting strangers will help, struggles to make appropriate conversation, and mentions knowing 'hardly a soul' with 'distinct regret.' These details collectively portray a man who is socially anxious and ill at ease."
+    },
+    {
+      "id": "hs-lit-q6",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 252,
+      "skill": "narrative-technique",
+      "skillLabel": "Narrative Technique",
+      "passageId": "hs-lit-p3",
+      "questionText": "Saki's choice to describe the niece as 'very self-possessed' while Framton 'endeavoured to say the correct something' establishes what narrative dynamic?",
+      "choices": [
+        { "label": "A", "text": "A conflict between youth and old age" },
+        { "label": "B", "text": "A power imbalance where the young niece controls the social interaction" },
+        { "label": "C", "text": "A mutual respect between host and guest" },
+        { "label": "D", "text": "An unreliable narrator who misreads social cues" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The contrast between the niece's composed self-possession and Framton's awkward striving to say the right thing immediately establishes her as the one in control. This power imbalance — unusual given their age difference — sets up the reader's expectation that the niece will manipulate the situation."
+    },
+    {
+      "id": "hs-lit-q7",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 258,
+      "skill": "theme-synthesis",
+      "skillLabel": "Theme Synthesis",
+      "passageId": "hs-lit-p1",
+      "questionText": "The passage from \"The Yellow Wallpaper\" most directly critiques which societal practice?",
+      "choices": [
+        { "label": "A", "text": "The isolation of rural communities from urban centers" },
+        { "label": "B", "text": "The medical establishment's suppression of women's autonomy under the guise of care" },
+        { "label": "C", "text": "The upper class's obsession with maintaining grand estates" },
+        { "label": "D", "text": "The dangers of writing as a form of self-expression" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The narrator is forbidden from thinking about her condition, given a strict schedule, and 'hardly let to stir' — all framed as John's loving medical care. The passage critiques how 19th-century medicine (specifically the 'rest cure') used the authority of male physicians to restrict women's intellectual and physical freedom while presenting control as benevolence."
+    },
+    {
+      "id": "hs-lit-q8",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 242,
+      "skill": "figurative-language",
+      "skillLabel": "Figurative Language",
+      "passageId": "hs-lit-p2",
+      "questionText": "The final image of \"lone and level sands stretch far away\" primarily creates a sense of:",
+      "choices": [
+        { "label": "A", "text": "Adventure and exploration" },
+        { "label": "B", "text": "Peaceful solitude" },
+        { "label": "C", "text": "Vast, indifferent emptiness" },
+        { "label": "D", "text": "Natural beauty and wonder" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The 'lone and level sands' stretching 'far away' evoke an infinite, featureless expanse that is utterly indifferent to the fallen monument. The words 'lone,' 'level,' 'boundless,' and 'bare' accumulate to create a powerful sense of emptiness that dwarfs human ambition."
+    }
+  ]
+}

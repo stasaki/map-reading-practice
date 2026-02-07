@@ -1,0 +1,171 @@
+{
+  "passages": [
+    {
+      "id": "lit-p1",
+      "title": "The Old Oak Tree",
+      "text": "Sarah walked slowly through the forest, her boots crunching on the fallen leaves. She stopped when she saw the old oak tree — the one her grandmother had told stories about. Its branches reached out like arms welcoming an old friend. Sarah placed her hand on the rough bark and closed her eyes. She could almost hear her grandmother's voice, soft and warm, telling tales of the forest creatures who lived among its roots.\n\n\"This tree has seen a hundred winters,\" Grandmother used to say. \"And it will see a hundred more.\" Sarah smiled, feeling the strength of the tree beneath her fingers. Even though Grandmother was gone now, the oak tree remained, standing tall and steady, just as it always had.",
+      "source": "Original passage",
+      "type": "literary"
+    },
+    {
+      "id": "lit-p2",
+      "title": "The Race",
+      "text": "Marcus stood at the starting line, his heart pounding so hard he was sure everyone could hear it. The other runners looked calm and confident, stretching their legs and chatting with friends. Marcus had never won a race before. In fact, he had never even come close.\n\n\"On your mark!\" called the coach. Marcus bent his knees and focused on the track ahead. \"Get set!\" He took a deep breath. \"Go!\"\n\nMarcus launched forward. The wind rushed past his ears. He didn't look at the other runners — he just kept his eyes on the finish line. His legs burned and his lungs ached, but he didn't slow down. When he crossed the finish line, he looked up at the scoreboard. Third place. It wasn't first, but Marcus grinned from ear to ear. He had beaten his own best time by ten seconds.",
+      "source": "Original passage",
+      "type": "literary"
+    },
+    {
+      "id": "lit-p3",
+      "title": "The Lost Kitten",
+      "text": "Emma found the kitten hiding under the porch steps on a rainy Tuesday afternoon. It was tiny and gray, with eyes as green as spring leaves. The kitten shivered and mewed pitifully when Emma reached out her hand.\n\n\"Don't worry, little one,\" Emma whispered. \"I'll take care of you.\"\n\nShe wrapped the kitten in her jacket and carried it inside. Her mother looked up from the kitchen table with surprise. \"What do you have there?\" she asked.\n\n\"A kitten that needs help,\" Emma said firmly. \"Can we keep it? Just until we find its owner?\"\n\nHer mother sighed but smiled. \"Let's get it some warm milk first.\"",
+      "source": "Original passage",
+      "type": "literary"
+    }
+  ],
+  "questions": [
+    {
+      "id": "lit-q1",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 187,
+      "skill": "character-analysis",
+      "skillLabel": "Character Analysis",
+      "passageId": "lit-p1",
+      "questionText": "How does Sarah feel when she touches the old oak tree?",
+      "choices": [
+        { "label": "A", "text": "Scared and lonely" },
+        { "label": "B", "text": "Angry and upset" },
+        { "label": "C", "text": "Comforted and connected to her grandmother" },
+        { "label": "D", "text": "Bored and tired" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage says Sarah could 'almost hear her grandmother's voice' and she 'smiled, feeling the strength of the tree.' These details show she feels comforted and connected to her grandmother's memory."
+    },
+    {
+      "id": "lit-q2",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 200,
+      "skill": "figurative-language",
+      "skillLabel": "Figurative Language",
+      "passageId": "lit-p1",
+      "questionText": "When the author writes that the branches 'reached out like arms welcoming an old friend,' what literary device is being used?",
+      "choices": [
+        { "label": "A", "text": "Alliteration" },
+        { "label": "B", "text": "Simile" },
+        { "label": "C", "text": "Hyperbole" },
+        { "label": "D", "text": "Onomatopoeia" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A simile compares two things using 'like' or 'as.' Here, the branches are compared to 'arms welcoming an old friend' using the word 'like,' making it a simile."
+    },
+    {
+      "id": "lit-q3",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 212,
+      "skill": "theme",
+      "skillLabel": "Theme & Central Message",
+      "passageId": "lit-p1",
+      "questionText": "Which statement best describes a theme of this passage?",
+      "choices": [
+        { "label": "A", "text": "Nature is dangerous and should be avoided" },
+        { "label": "B", "text": "Memories of loved ones can bring comfort even after they are gone" },
+        { "label": "C", "text": "Trees are the most important part of a forest" },
+        { "label": "D", "text": "Children should always listen to their grandparents" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage focuses on Sarah visiting a tree that reminds her of her grandmother. Even though her grandmother is gone, the tree helps Sarah feel connected to her memory. The theme is about finding comfort in memories of loved ones."
+    },
+    {
+      "id": "lit-q4",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 185,
+      "skill": "key-details",
+      "skillLabel": "Key Details",
+      "passageId": "lit-p2",
+      "questionText": "What place did Marcus finish in the race?",
+      "choices": [
+        { "label": "A", "text": "First place" },
+        { "label": "B", "text": "Second place" },
+        { "label": "C", "text": "Third place" },
+        { "label": "D", "text": "Last place" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage clearly states that when Marcus looked at the scoreboard, he saw 'Third place.'"
+    },
+    {
+      "id": "lit-q5",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 200,
+      "skill": "character-motivation",
+      "skillLabel": "Character Motivation",
+      "passageId": "lit-p2",
+      "questionText": "Why did Marcus grin even though he didn't win first place?",
+      "choices": [
+        { "label": "A", "text": "He was glad the race was over" },
+        { "label": "B", "text": "He beat his own personal best time" },
+        { "label": "C", "text": "His friends cheered for him" },
+        { "label": "D", "text": "He didn't care about the race" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage says Marcus 'grinned from ear to ear' because 'He had beaten his own best time by ten seconds.' His personal improvement was what made him happy, not his placement."
+    },
+    {
+      "id": "lit-q6",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 210,
+      "skill": "inference",
+      "skillLabel": "Making Inferences",
+      "passageId": "lit-p2",
+      "questionText": "Based on the passage, what can you infer about Marcus as a person?",
+      "choices": [
+        { "label": "A", "text": "He gives up easily when things are hard" },
+        { "label": "B", "text": "He is naturally the fastest runner at school" },
+        { "label": "C", "text": "He is determined and values self-improvement" },
+        { "label": "D", "text": "He only cares about winning first place" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Marcus kept running even though 'His legs burned and his lungs ached,' showing determination. He was happy about beating his personal best rather than winning, showing he values self-improvement."
+    },
+    {
+      "id": "lit-q7",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 185,
+      "skill": "key-details",
+      "skillLabel": "Key Details",
+      "passageId": "lit-p3",
+      "questionText": "Where did Emma find the kitten?",
+      "choices": [
+        { "label": "A", "text": "In the kitchen" },
+        { "label": "B", "text": "Under the porch steps" },
+        { "label": "C", "text": "At school" },
+        { "label": "D", "text": "In a tree" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage states that 'Emma found the kitten hiding under the porch steps on a rainy Tuesday afternoon.'"
+    },
+    {
+      "id": "lit-q8",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 198,
+      "skill": "character-analysis",
+      "skillLabel": "Character Analysis",
+      "passageId": "lit-p3",
+      "questionText": "What does Emma's mother's reaction tell us about her?",
+      "choices": [
+        { "label": "A", "text": "She is angry about the kitten" },
+        { "label": "B", "text": "She doesn't care about animals" },
+        { "label": "C", "text": "She is kind but practical" },
+        { "label": "D", "text": "She is afraid of cats" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Emma's mother 'sighed but smiled' and suggested getting the kitten warm milk. The sigh shows she's practical (knowing a pet is work), but the smile and offering milk show she's kind-hearted."
+    }
+  ]
+}

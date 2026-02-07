@@ -1,0 +1,171 @@
+{
+  "passages": [
+    {
+      "id": "hs-info-p1",
+      "title": "The Decline of Insect Populations",
+      "text": "A 2019 meta-analysis published in Biological Conservation reviewed 73 studies documenting insect population trends worldwide. The researchers concluded that over 40 percent of insect species are declining, with a third classified as endangered. The rate of extinction is eight times faster than that of mammals, birds, and reptiles.\n\nSeveral interacting factors drive this decline. Habitat loss from agricultural intensification accounts for the largest share, particularly the conversion of diverse landscapes into monoculture cropland. Synthetic pesticides — especially neonicotinoids — disrupt insect nervous systems even at sub-lethal doses, impairing navigation and reproduction. Climate change compounds these pressures by shifting seasonal timing, causing mismatches between insect life cycles and the plants they depend on.\n\nCritics of the study note significant geographic bias: most research comes from Western Europe and North America, leaving tropical regions — which harbor the greatest insect diversity — poorly represented. Additionally, some ecologists argue that population fluctuations are natural and that short-term declines do not necessarily indicate permanent trends.",
+      "source": "Adapted from scientific review literature",
+      "type": "informational"
+    },
+    {
+      "id": "hs-info-p2",
+      "title": "The Ethics of Artificial Intelligence in Criminal Justice",
+      "text": "Across the United States, courts and parole boards increasingly rely on algorithmic risk-assessment tools to inform sentencing and bail decisions. Proponents argue these tools reduce human bias by replacing subjective judicial intuition with data-driven predictions. A defendant's likelihood of reoffending, they claim, can be estimated more consistently by an algorithm than by a judge who may be influenced by irrelevant factors like appearance or mood.\n\nHowever, a 2016 investigation by ProPublica found that one widely used tool, COMPAS, was nearly twice as likely to falsely label Black defendants as high-risk compared to white defendants. The algorithm does not use race as an input variable, but it relies on proxies — zip code, employment history, prior arrests — that correlate strongly with race due to systemic inequalities. The result is that historical discrimination becomes encoded in the algorithm's predictions.\n\nDefenders of algorithmic tools respond that human judges exhibit even greater racial disparities, and that imperfect algorithms can be audited and improved, while human biases operate invisibly. The debate ultimately hinges on whether we hold algorithms to a higher standard than the flawed systems they aim to replace.",
+      "source": "Adapted from policy analysis",
+      "type": "informational"
+    },
+    {
+      "id": "hs-info-p3",
+      "title": "Neuroplasticity and Language Learning",
+      "text": "For decades, neuroscientists believed that the brain's capacity for language acquisition declined sharply after puberty, a concept known as the critical period hypothesis. Recent research using functional MRI imaging has complicated this picture. While it remains true that children acquire native-level pronunciation more easily, adults demonstrate surprising neuroplasticity in other aspects of language learning.\n\nA 2018 study at MIT analyzed data from nearly 670,000 English learners and found that grammatical learning ability does not plateau until approximately age 17 or 18 — significantly later than previously thought. Moreover, adult learners who immerse themselves in a new language show measurable changes in brain structure within months, including increased gray matter density in the left inferior parietal cortex, a region associated with vocabulary storage.\n\nThese findings suggest that the critical period may be less about biological limitation and more about environmental factors: children are typically immersed in language-rich environments with low social pressure, while adults face competing cognitive demands, reduced exposure time, and greater self-consciousness about making errors.",
+      "source": "Adapted from neuroscience research summaries",
+      "type": "informational"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hs-info-q1",
+      "type": "informational",
+      "difficulty": "easy",
+      "ritLevel": 234,
+      "skill": "central-idea",
+      "skillLabel": "Central Idea",
+      "passageId": "hs-info-p1",
+      "questionText": "Which statement best summarizes the main argument of the passage about insect decline?",
+      "choices": [
+        { "label": "A", "text": "Insect populations are declining rapidly due to multiple human-caused factors, though research gaps remain" },
+        { "label": "B", "text": "Neonicotinoid pesticides are the sole cause of insect extinction worldwide" },
+        { "label": "C", "text": "Insect population decline is a natural fluctuation that scientists have overstated" },
+        { "label": "D", "text": "Tropical insects are declining faster than those in Europe and North America" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The passage presents multiple causes of insect decline (habitat loss, pesticides, climate change) while also acknowledging criticisms about geographic bias and whether declines are permanent. Answer A captures both the main claim and the qualification."
+    },
+    {
+      "id": "hs-info-q2",
+      "type": "informational",
+      "difficulty": "medium",
+      "ritLevel": 245,
+      "skill": "argument-evaluation",
+      "skillLabel": "Argument Evaluation",
+      "passageId": "hs-info-p2",
+      "questionText": "The defenders of algorithmic tools in the final paragraph use which argumentative strategy?",
+      "choices": [
+        { "label": "A", "text": "Appealing to authority by citing specific research studies" },
+        { "label": "B", "text": "Reframing the comparison — the alternative is not perfection but flawed human judgment" },
+        { "label": "C", "text": "Dismissing the ProPublica findings as methodologically unsound" },
+        { "label": "D", "text": "Arguing that racial disparities in algorithms are statistically insignificant" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The defenders do not dispute the algorithm's flaws but instead argue that human judges 'exhibit even greater racial disparities.' Their strategy reframes the question from 'Is the algorithm biased?' to 'Is the algorithm less biased than the alternative?' This is a comparative rather than absolute defense."
+    },
+    {
+      "id": "hs-info-q3",
+      "type": "informational",
+      "difficulty": "medium",
+      "ritLevel": 247,
+      "skill": "evidence-synthesis",
+      "skillLabel": "Evidence Synthesis",
+      "passageId": "hs-info-p3",
+      "questionText": "How does the MIT study cited in paragraph two challenge the traditional critical period hypothesis?",
+      "choices": [
+        { "label": "A", "text": "It proves that adults can achieve native pronunciation in a second language" },
+        { "label": "B", "text": "It shows grammatical learning ability persists several years longer than previously believed" },
+        { "label": "C", "text": "It demonstrates that children and adults learn languages at identical rates" },
+        { "label": "D", "text": "It reveals that functional MRI imaging cannot accurately measure language ability" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage states the MIT study found 'grammatical learning ability does not plateau until approximately age 17 or 18 — significantly later than previously thought.' This directly challenges the traditional view that language acquisition declines sharply after puberty."
+    },
+    {
+      "id": "hs-info-q4",
+      "type": "informational",
+      "difficulty": "hard",
+      "ritLevel": 253,
+      "skill": "credibility-assessment",
+      "skillLabel": "Source Credibility",
+      "passageId": "hs-info-p1",
+      "questionText": "The critics' argument about geographic bias most effectively weakens the meta-analysis by suggesting that:",
+      "choices": [
+        { "label": "A", "text": "The researchers fabricated their data from European studies" },
+        { "label": "B", "text": "Insects in tropical regions may be thriving, making global conclusions premature" },
+        { "label": "C", "text": "Western European insects are not real insects for the purposes of ecological study" },
+        { "label": "D", "text": "Climate change only affects insects in North America" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The critics note that tropical regions — which 'harbor the greatest insect diversity' — are poorly represented. If the most biodiverse regions lack data, the study's global conclusions about '40 percent of insect species declining' may not hold. The data could be skewed by conditions specific to heavily industrialized regions."
+    },
+    {
+      "id": "hs-info-q5",
+      "type": "informational",
+      "difficulty": "hard",
+      "ritLevel": 256,
+      "skill": "argument-evaluation",
+      "skillLabel": "Argument Evaluation",
+      "passageId": "hs-info-p2",
+      "questionText": "The passage states that COMPAS does not use race as an input but produces racially biased outcomes. This phenomenon is best described as:",
+      "choices": [
+        { "label": "A", "text": "A deliberate design choice to disadvantage minority defendants" },
+        { "label": "B", "text": "A statistical anomaly that would disappear with more data" },
+        { "label": "C", "text": "Proxy discrimination — using variables that correlate with race due to systemic inequality" },
+        { "label": "D", "text": "Proof that algorithms cannot process demographic information accurately" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The passage explicitly explains that COMPAS 'relies on proxies — zip code, employment history, prior arrests — that correlate strongly with race due to systemic inequalities.' This is proxy discrimination: facially neutral variables that reproduce racial disparities because the underlying data reflects historical discrimination."
+    },
+    {
+      "id": "hs-info-q6",
+      "type": "informational",
+      "difficulty": "easy",
+      "ritLevel": 236,
+      "skill": "text-structure",
+      "skillLabel": "Text Structure",
+      "passageId": "hs-info-p3",
+      "questionText": "The passage about neuroplasticity is primarily organized by:",
+      "choices": [
+        { "label": "A", "text": "Presenting a traditional view, then complicating it with recent evidence" },
+        { "label": "B", "text": "Comparing children's and adults' brain structures in detail" },
+        { "label": "C", "text": "Listing the steps of how the brain processes a new language" },
+        { "label": "D", "text": "Arguing against all language instruction for adults" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Paragraph one introduces the traditional critical period hypothesis. Paragraph two presents the MIT study that 'complicated this picture.' Paragraph three offers an alternative explanation. The structure moves from established belief to complicating evidence to reinterpretation."
+    },
+    {
+      "id": "hs-info-q7",
+      "type": "informational",
+      "difficulty": "hard",
+      "ritLevel": 258,
+      "skill": "evidence-synthesis",
+      "skillLabel": "Evidence Synthesis",
+      "passageId": "hs-info-p3",
+      "questionText": "The final paragraph suggests that the critical period may be better explained by environmental factors rather than biology. Which evidence from the passage most directly supports this reinterpretation?",
+      "choices": [
+        { "label": "A", "text": "Children acquire native-level pronunciation more easily than adults" },
+        { "label": "B", "text": "Adult learners show measurable brain structure changes within months of immersion" },
+        { "label": "C", "text": "The MIT study used data from nearly 670,000 English learners" },
+        { "label": "D", "text": "The left inferior parietal cortex is associated with vocabulary storage" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "If adult brains physically restructure in response to language immersion, this demonstrates that the biological capacity for language learning persists. The decline attributed to biology may instead result from adults having less immersion time and more competing demands — environmental rather than biological constraints."
+    },
+    {
+      "id": "hs-info-q8",
+      "type": "informational",
+      "difficulty": "medium",
+      "ritLevel": 243,
+      "skill": "authors-purpose",
+      "skillLabel": "Author's Purpose",
+      "passageId": "hs-info-p2",
+      "questionText": "The author's primary purpose in the passage about AI in criminal justice is to:",
+      "choices": [
+        { "label": "A", "text": "Argue that algorithmic tools should be banned from courtrooms" },
+        { "label": "B", "text": "Present the debate surrounding algorithmic risk-assessment tools with multiple perspectives" },
+        { "label": "C", "text": "Prove that human judges are more biased than algorithms" },
+        { "label": "D", "text": "Explain how the COMPAS algorithm works technically" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The passage presents proponents' arguments (paragraph 1), critics' evidence (paragraph 2), and defenders' counterarguments (paragraph 3), concluding with an open question rather than a definitive position. This balanced structure indicates the author's purpose is to present the debate, not to advocate for one side."
+    }
+  ]
+}

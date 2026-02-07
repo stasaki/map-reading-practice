@@ -1,0 +1,149 @@
+{
+  "passages": [],
+  "questions": [
+    {
+      "id": "hs-found-q1",
+      "type": "foundational",
+      "difficulty": "easy",
+      "ritLevel": 233,
+      "skill": "parallel-structure",
+      "skillLabel": "Parallel Structure",
+      "passageId": null,
+      "questionText": "Which sentence demonstrates correct parallel structure?",
+      "choices": [
+        { "label": "A", "text": "She enjoys reading, to swim, and hiking on weekends." },
+        { "label": "B", "text": "She enjoys reading, swimming, and hiking on weekends." },
+        { "label": "C", "text": "She enjoys to read, swimming, and to hike on weekends." },
+        { "label": "D", "text": "She enjoys reading, to be swimming, and hikes on weekends." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Parallel structure requires items in a list to follow the same grammatical pattern. Answer B uses three gerunds (reading, swimming, hiking). The other options mix gerunds, infinitives, and conjugated verbs."
+    },
+    {
+      "id": "hs-found-q2",
+      "type": "foundational",
+      "difficulty": "easy",
+      "ritLevel": 236,
+      "skill": "semicolons",
+      "skillLabel": "Semicolon Usage",
+      "passageId": null,
+      "questionText": "Which sentence uses the semicolon correctly?",
+      "choices": [
+        { "label": "A", "text": "The experiment failed; because the temperature was too high." },
+        { "label": "B", "text": "The experiment failed; the temperature was too high." },
+        { "label": "C", "text": "The experiment; failed the temperature was too high." },
+        { "label": "D", "text": "The experiment failed, the; temperature was too high." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A semicolon joins two independent clauses that are closely related. 'The experiment failed' and 'the temperature was too high' are both complete sentences. Answer A is wrong because 'because' makes the second part a dependent clause, which should not follow a semicolon."
+    },
+    {
+      "id": "hs-found-q3",
+      "type": "foundational",
+      "difficulty": "medium",
+      "ritLevel": 244,
+      "skill": "dangling-modifiers",
+      "skillLabel": "Dangling Modifiers",
+      "passageId": null,
+      "questionText": "Which sentence contains a dangling modifier?",
+      "choices": [
+        { "label": "A", "text": "Walking through the park, the birds sang beautifully in the trees." },
+        { "label": "B", "text": "Walking through the park, Maria heard the birds singing beautifully." },
+        { "label": "C", "text": "Maria walked through the park and heard the birds singing." },
+        { "label": "D", "text": "As Maria walked through the park, the birds sang beautifully." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "In sentence A, 'Walking through the park' is a participial phrase that should modify the subject that follows. But the subject is 'the birds,' implying the birds were walking through the park. This is a dangling modifier. Sentence B correctly makes 'Maria' the subject."
+    },
+    {
+      "id": "hs-found-q4",
+      "type": "foundational",
+      "difficulty": "medium",
+      "ritLevel": 246,
+      "skill": "sentence-combining",
+      "skillLabel": "Sentence Combining",
+      "passageId": null,
+      "questionText": "Which revision most effectively combines these two sentences? \"The committee proposed a new policy. The policy was controversial among faculty members.\"",
+      "choices": [
+        { "label": "A", "text": "The committee proposed a new policy, it was controversial among faculty members." },
+        { "label": "B", "text": "The committee proposed a new policy and controversial among faculty members." },
+        { "label": "C", "text": "The committee proposed a new policy that proved controversial among faculty members." },
+        { "label": "D", "text": "The committee proposed a new policy, being controversial among faculty members." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Answer C uses a relative clause ('that proved controversial') to smoothly combine the sentences. Answer A is a comma splice. Answer B is grammatically incomplete. Answer D creates a dangling modifier that suggests the committee, not the policy, is controversial."
+    },
+    {
+      "id": "hs-found-q5",
+      "type": "foundational",
+      "difficulty": "hard",
+      "ritLevel": 253,
+      "skill": "subjunctive-mood",
+      "skillLabel": "Subjunctive Mood",
+      "passageId": null,
+      "questionText": "Which sentence correctly uses the subjunctive mood?",
+      "choices": [
+        { "label": "A", "text": "If I was the president, I would change the law." },
+        { "label": "B", "text": "If I were the president, I would change the law." },
+        { "label": "C", "text": "If I am the president, I would change the law." },
+        { "label": "D", "text": "If I be the president, I would change the law." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The subjunctive mood is used for hypothetical or contrary-to-fact conditions. 'If I were' (not 'was') is the correct subjunctive form because the speaker is not actually the president. This applies regardless of the subject being singular."
+    },
+    {
+      "id": "hs-found-q6",
+      "type": "foundational",
+      "difficulty": "hard",
+      "ritLevel": 255,
+      "skill": "colon-usage",
+      "skillLabel": "Colon Usage",
+      "passageId": null,
+      "questionText": "Which sentence uses the colon correctly?",
+      "choices": [
+        { "label": "A", "text": "The three branches of government are: legislative, executive, and judicial." },
+        { "label": "B", "text": "The three branches of government include: legislative, executive, and judicial." },
+        { "label": "C", "text": "There are three branches of government: legislative, executive, and judicial." },
+        { "label": "D", "text": "The government has: three branches that are legislative, executive, and judicial." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "A colon should follow an independent clause (a complete sentence). 'There are three branches of government' is a complete thought. In answers A, B, and D, the colon interrupts the natural flow between a verb and its object — 'are,' 'include,' and 'has' all need their complements without a colon."
+    },
+    {
+      "id": "hs-found-q7",
+      "type": "foundational",
+      "difficulty": "medium",
+      "ritLevel": 248,
+      "skill": "pronoun-reference",
+      "skillLabel": "Pronoun Reference",
+      "passageId": null,
+      "questionText": "Which sentence has an ambiguous pronoun reference?",
+      "choices": [
+        { "label": "A", "text": "When Sarah met Elena, she was nervous about the interview." },
+        { "label": "B", "text": "Sarah was nervous about the interview when she met Elena." },
+        { "label": "C", "text": "Sarah, who was nervous about the interview, met Elena in the lobby." },
+        { "label": "D", "text": "Nervous about the interview, Sarah met Elena in the lobby." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "In sentence A, 'she' could refer to either Sarah or Elena — the reader cannot determine who was nervous. Sentences B, C, and D all make it clear that Sarah is the one who is nervous through sentence structure and clause placement."
+    },
+    {
+      "id": "hs-found-q8",
+      "type": "foundational",
+      "difficulty": "hard",
+      "ritLevel": 257,
+      "skill": "parallel-structure",
+      "skillLabel": "Parallel Structure",
+      "passageId": null,
+      "questionText": "Which sentence maintains parallel structure in a complex list with correlative conjunctions?",
+      "choices": [
+        { "label": "A", "text": "The proposal was not only rejected by the board but also the shareholders voted against it." },
+        { "label": "B", "text": "Not only was the proposal rejected by the board, but also the shareholders voted against it." },
+        { "label": "C", "text": "The proposal was not only rejected by the board but also opposed by the shareholders." },
+        { "label": "D", "text": "Not only the board rejected the proposal but also the shareholders opposing it." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correlative conjunctions ('not only...but also') require parallel grammatical structures on each side. In answer C, both sides follow the same pattern: 'rejected by the board' / 'opposed by the shareholders' (past participle + by + agent). The other options break this symmetry."
+    }
+  ]
+}

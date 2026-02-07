@@ -1,0 +1,149 @@
+{
+  "passages": [],
+  "questions": [
+    {
+      "id": "hs-vocab-q1",
+      "type": "vocabulary",
+      "difficulty": "easy",
+      "ritLevel": 233,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "The scientist's ubiquitous presence at every conference and symposium made her one of the most recognized figures in the field. What does \"ubiquitous\" mean?",
+      "choices": [
+        { "label": "A", "text": "Controversial" },
+        { "label": "B", "text": "Seeming to be everywhere at once" },
+        { "label": "C", "text": "Exceptionally intelligent" },
+        { "label": "D", "text": "Newly arrived" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The context clue 'presence at every conference and symposium' indicates she appeared everywhere. 'Ubiquitous' means present, appearing, or found everywhere — from the Latin 'ubique' (everywhere)."
+    },
+    {
+      "id": "hs-vocab-q2",
+      "type": "vocabulary",
+      "difficulty": "easy",
+      "ritLevel": 235,
+      "skill": "word-roots",
+      "skillLabel": "Word Roots and Affixes",
+      "passageId": null,
+      "questionText": "The prefix \"bene-\" means \"good\" or \"well.\" Based on this, what does \"benevolent\" most likely mean?",
+      "choices": [
+        { "label": "A", "text": "Wishing harm to others" },
+        { "label": "B", "text": "Indifferent to others' needs" },
+        { "label": "C", "text": "Well-intentioned and kindly" },
+        { "label": "D", "text": "Extremely wealthy" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Bene-' means good/well and '-volent' comes from the Latin 'velle' (to wish). Together, 'benevolent' literally means 'wishing well' — describing someone who is kindly and well-intentioned toward others."
+    },
+    {
+      "id": "hs-vocab-q3",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "ritLevel": 244,
+      "skill": "connotation",
+      "skillLabel": "Connotation and Tone",
+      "passageId": null,
+      "questionText": "A journalist writes: \"The politician's rhetoric was designed to placate the angry crowd.\" The word \"placate\" carries a connotation of:",
+      "choices": [
+        { "label": "A", "text": "Genuine compassion and deep understanding" },
+        { "label": "B", "text": "Superficial soothing — calming without truly addressing concerns" },
+        { "label": "C", "text": "Aggressive confrontation and debate" },
+        { "label": "D", "text": "Complete agreement with the crowd's demands" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Placate' means to make someone less angry or hostile, but it carries a connotation of surface-level appeasement rather than genuine resolution. Combined with 'designed to,' the phrase suggests strategic calming rather than authentic engagement with the crowd's concerns."
+    },
+    {
+      "id": "hs-vocab-q4",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "ritLevel": 246,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "The juxtaposition of the crumbling tenements and the gleaming new skyscraper highlighted the neighborhood's rapid gentrification. What does \"juxtaposition\" mean?",
+      "choices": [
+        { "label": "A", "text": "The gradual replacement of one thing with another" },
+        { "label": "B", "text": "The destruction of old buildings" },
+        { "label": "C", "text": "The placement of two things close together to highlight contrast" },
+        { "label": "D", "text": "The careful renovation of historic structures" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The sentence places 'crumbling tenements' directly alongside a 'gleaming new skyscraper' to emphasize their contrast. 'Juxtaposition' means placing two things side by side, especially for comparison or to highlight differences."
+    },
+    {
+      "id": "hs-vocab-q5",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "ritLevel": 254,
+      "skill": "word-roots",
+      "skillLabel": "Word Roots and Affixes",
+      "passageId": null,
+      "questionText": "The word \"paradigm\" comes from the Greek \"paradeigma,\" meaning \"pattern\" or \"example.\" In the sentence \"The discovery forced a paradigm shift in evolutionary biology,\" what does \"paradigm shift\" mean?",
+      "choices": [
+        { "label": "A", "text": "A minor adjustment to existing laboratory methods" },
+        { "label": "B", "text": "A fundamental change in the accepted framework of understanding" },
+        { "label": "C", "text": "A return to previously abandoned theories" },
+        { "label": "D", "text": "A disagreement between two research teams" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A 'paradigm' is the accepted framework or model of understanding in a field. A 'paradigm shift' (coined by Thomas Kuhn) refers to a fundamental transformation in that framework — not a small tweak but a wholesale change in how the field understands its subject."
+    },
+    {
+      "id": "hs-vocab-q6",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "ritLevel": 256,
+      "skill": "connotation",
+      "skillLabel": "Connotation and Tone",
+      "passageId": null,
+      "questionText": "Which pair of words have similar denotations but opposite connotations?",
+      "choices": [
+        { "label": "A", "text": "\"Thrifty\" and \"cheap\"" },
+        { "label": "B", "text": "\"Joyful\" and \"sorrowful\"" },
+        { "label": "C", "text": "\"Walk\" and \"run\"" },
+        { "label": "D", "text": "\"House\" and \"building\"" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Thrifty' and 'cheap' both denote someone who spends little money, but 'thrifty' carries a positive connotation (wise with money) while 'cheap' carries a negative one (stingy, unwilling to spend). 'Joyful/sorrowful' have opposite denotations, not just different connotations."
+    },
+    {
+      "id": "hs-vocab-q7",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "ritLevel": 248,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "Despite the professor's cogent arguments and clear evidence, the committee remained unconvinced. What does \"cogent\" mean?",
+      "choices": [
+        { "label": "A", "text": "Confusing and poorly organized" },
+        { "label": "B", "text": "Emotionally manipulative" },
+        { "label": "C", "text": "Clear, logical, and convincing" },
+        { "label": "D", "text": "Lengthy and repetitive" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The contrast word 'despite' signals that the arguments were strong yet the committee still disagreed. The pairing with 'clear evidence' reinforces that 'cogent' means logically compelling and well-reasoned."
+    },
+    {
+      "id": "hs-vocab-q8",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "ritLevel": 252,
+      "skill": "word-roots",
+      "skillLabel": "Word Roots and Affixes",
+      "passageId": null,
+      "questionText": "Knowing that \"circum-\" means \"around\" and \"locut\" comes from the Latin \"loqui\" (to speak), what does \"circumlocution\" mean?",
+      "choices": [
+        { "label": "A", "text": "Speaking directly and concisely" },
+        { "label": "B", "text": "Speaking in circles — using many words to avoid saying something directly" },
+        { "label": "C", "text": "Speaking to a large audience" },
+        { "label": "D", "text": "Translating between two languages" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Circum-' (around) + 'locut' (speak) = speaking around a subject. 'Circumlocution' means using unnecessarily wordy or indirect language, often to avoid stating something plainly — literally 'talking in circles.'"
+    }
+  ]
+}

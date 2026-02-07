@@ -1,0 +1,149 @@
+{
+  "passages": [],
+  "questions": [
+    {
+      "id": "found-q1",
+      "type": "foundational",
+      "difficulty": "easy",
+      "ritLevel": 185,
+      "skill": "punctuation",
+      "skillLabel": "Punctuation",
+      "passageId": null,
+      "questionText": "Which sentence uses a comma correctly?",
+      "choices": [
+        { "label": "A", "text": "Before we eat, we should wash our hands." },
+        { "label": "B", "text": "Before, we eat we should wash our hands." },
+        { "label": "C", "text": "Before we eat we should, wash our hands." },
+        { "label": "D", "text": "Before we, eat we should wash our hands." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "When a sentence begins with an introductory phrase or clause (like 'Before we eat'), a comma is placed after that phrase, before the main part of the sentence. Answer A correctly places the comma after 'Before we eat.'"
+    },
+    {
+      "id": "found-q2",
+      "type": "foundational",
+      "difficulty": "easy",
+      "ritLevel": 187,
+      "skill": "grammar",
+      "skillLabel": "Grammar",
+      "passageId": null,
+      "questionText": "Which sentence uses the correct form of the verb?",
+      "choices": [
+        { "label": "A", "text": "The dogs was playing in the yard." },
+        { "label": "B", "text": "The dogs were playing in the yard." },
+        { "label": "C", "text": "The dogs is playing in the yard." },
+        { "label": "D", "text": "The dogs am playing in the yard." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The subject 'dogs' is plural, so it needs the plural verb form 'were.' 'Was,' 'is,' and 'am' are all singular verb forms that do not agree with the plural subject."
+    },
+    {
+      "id": "found-q3",
+      "type": "foundational",
+      "difficulty": "easy",
+      "ritLevel": 186,
+      "skill": "sentence-structure",
+      "skillLabel": "Sentence Structure",
+      "passageId": null,
+      "questionText": "Which of the following is a complete sentence?",
+      "choices": [
+        { "label": "A", "text": "Running through the park on a sunny day." },
+        { "label": "B", "text": "The cat sat on the windowsill." },
+        { "label": "C", "text": "Because it was raining outside." },
+        { "label": "D", "text": "Very quickly and quietly." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A complete sentence needs a subject and a predicate (verb). 'The cat sat on the windowsill' has a subject ('The cat') and a predicate ('sat on the windowsill'). The other options are fragments — they are missing a subject, a verb, or express an incomplete thought."
+    },
+    {
+      "id": "found-q4",
+      "type": "foundational",
+      "difficulty": "medium",
+      "ritLevel": 198,
+      "skill": "sentence-structure",
+      "skillLabel": "Sentence Structure",
+      "passageId": null,
+      "questionText": "Which answer correctly combines these two sentences? \"The rain stopped. The children went outside to play.\"",
+      "choices": [
+        { "label": "A", "text": "The rain stopped the children went outside to play." },
+        { "label": "B", "text": "After the rain stopped, the children went outside to play." },
+        { "label": "C", "text": "The rain stopped, the children went outside to play." },
+        { "label": "D", "text": "The rain the children stopped went outside to play." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Answer B correctly combines the sentences using the subordinating conjunction 'After,' which shows the relationship between the two events (the rain stopping caused the children to go outside). Answer A is a run-on, C is a comma splice, and D doesn't make sense."
+    },
+    {
+      "id": "found-q5",
+      "type": "foundational",
+      "difficulty": "medium",
+      "ritLevel": 200,
+      "skill": "punctuation",
+      "skillLabel": "Punctuation",
+      "passageId": null,
+      "questionText": "Which sentence correctly uses an apostrophe to show possession?",
+      "choices": [
+        { "label": "A", "text": "The girl's backpack was bright red." },
+        { "label": "B", "text": "The girls' backpack was bright red." },
+        { "label": "C", "text": "The girl backpack's was bright red." },
+        { "label": "D", "text": "The girls backpack was bright' red." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "To show that one girl owns the backpack, add an apostrophe and 's' to 'girl,' making it 'girl's backpack.' Answer B would mean multiple girls share one backpack. Answers C and D place the apostrophe incorrectly."
+    },
+    {
+      "id": "found-q6",
+      "type": "foundational",
+      "difficulty": "medium",
+      "ritLevel": 202,
+      "skill": "reference-materials",
+      "skillLabel": "Reference Materials",
+      "passageId": null,
+      "questionText": "If you wanted to find the meaning of the word \"photosynthesis,\" which resource would be MOST helpful?",
+      "choices": [
+        { "label": "A", "text": "An atlas" },
+        { "label": "B", "text": "A dictionary" },
+        { "label": "C", "text": "A thesaurus" },
+        { "label": "D", "text": "An almanac" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A dictionary provides definitions of words. An atlas contains maps, a thesaurus provides synonyms, and an almanac contains facts and statistics. To find the meaning of a word, a dictionary is the most helpful resource."
+    },
+    {
+      "id": "found-q7",
+      "type": "foundational",
+      "difficulty": "hard",
+      "ritLevel": 210,
+      "skill": "text-organization",
+      "skillLabel": "Text Organization",
+      "passageId": null,
+      "questionText": "A student is writing a research report about dolphins. Which organizational structure would work best?",
+      "choices": [
+        { "label": "A", "text": "Write everything in one long paragraph without any headings" },
+        { "label": "B", "text": "Organize information into sections with headings like 'Habitat,' 'Diet,' and 'Behavior'" },
+        { "label": "C", "text": "List random facts about dolphins in no particular order" },
+        { "label": "D", "text": "Write a poem about dolphins instead" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A research report should be organized into clear sections with headings so readers can find information easily. Grouping related facts under headings like 'Habitat,' 'Diet,' and 'Behavior' creates a logical, well-organized structure."
+    },
+    {
+      "id": "found-q8",
+      "type": "foundational",
+      "difficulty": "hard",
+      "ritLevel": 212,
+      "skill": "grammar",
+      "skillLabel": "Grammar",
+      "passageId": null,
+      "questionText": "Which sentence correctly uses a pronoun to replace the underlined noun? \"Maria told Maria's friend about the surprise party.\"",
+      "choices": [
+        { "label": "A", "text": "Maria told she friend about the surprise party." },
+        { "label": "B", "text": "Maria told her friend about the surprise party." },
+        { "label": "C", "text": "Maria told hers friend about the surprise party." },
+        { "label": "D", "text": "Maria told they friend about the surprise party." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The possessive pronoun 'her' correctly replaces 'Maria's' to show ownership. 'She' is a subject pronoun, not possessive. 'Hers' is used when the pronoun stands alone (not before a noun). 'They' does not match the singular, female noun 'Maria.'"
+    }
+  ]
+}

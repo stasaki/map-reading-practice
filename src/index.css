@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-map-blue: #1e40af;
+  --color-map-blue-light: #3b82f6;
+  --color-map-blue-dark: #1e3a8a;
+  --color-map-green: #16a34a;
+  --color-map-green-light: #4ade80;
+  --color-map-red: #dc2626;
+  --color-map-red-light: #f87171;
+  --color-map-orange: #ea580c;
+  --color-map-purple: #7c3aed;
+  --color-map-gray: #6b7280;
+  --color-map-gray-light: #f3f4f6;
+  --font-passage: Georgia, "Times New Roman", serif;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900 min-h-screen;
+  margin: 0;
+}
