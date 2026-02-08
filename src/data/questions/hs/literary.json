@@ -20,6 +20,27 @@
       "text": "\"My aunt will be down presently, Mr. Nuttel,\" said a very self-possessed young lady of fifteen; \"in the meantime you must try and put up with me.\"\n\nFramton Nuttel endeavoured to say the correct something which should duly flatter the niece of the moment without unduly discounting the aunt that was to come. Privately he doubted more than ever whether these formal visits on a succession of total strangers would do much towards helping the nerve cure which he was supposed to be undergoing.\n\n\"Do you know many of the people round here?\" asked the niece, when she judged that they had had sufficient silent communion.\n\n\"Hardly a soul,\" said Framton. \"My sister was staying here, at the rectory, you know, some four years ago, and she gave me letters of introduction to some of the people here.\"\n\nHe made the last statement in a tone of distinct regret.",
       "source": "Saki (H.H. Munro), 1914 (adapted)",
       "type": "literary"
+    },
+    {
+      "id": "hs-lit-p4",
+      "title": "The Road Not Taken",
+      "text": "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
+      "source": "Robert Frost, 1916",
+      "type": "literary"
+    },
+    {
+      "id": "hs-lit-p5",
+      "title": "Still I Rise",
+      "text": "You may write me down in history\nWith your bitter, twisted lies,\nYou may tread me in the very dirt\nBut still, like dust, I'll rise.\n\nDoes my sassiness upset you?\nWhy are you beset with gloom?\n'Cause I walk like I've got oil wells\nPumping in my living room.\n\nJust like moons and like suns,\nWith the certainty of tides,\nJust like hopes springing high,\nStill I'll rise.\n\nDid you want to see me broken?\nBowed head and lowered eyes?\nShoulders falling down like teardrops,\nWeakened by my soulful cries?\n\nOut of the huts of history's shame\nI rise\nUp from a past that's rooted in pain\nI rise\nI'm a black ocean, leaping and wide,\nWelling and swelling I bear in the tide.\n\nLeaving behind nights of terror and fear\nI rise\nInto a daybreak that's wondrously clear\nI rise\nBringing the gifts that my ancestors gave,\nI am the dream and the hope of the slave.\nI rise\nI rise\nI rise.",
+      "source": "Maya Angelou, 1978",
+      "type": "literary"
+    },
+    {
+      "id": "hs-lit-p6",
+      "title": "Harlem (Dream Deferred)",
+      "text": "What happens to a dream deferred?\n\nDoes it dry up\nlike a raisin in the sun?\nOr fester like a sore—\nAnd then run?\nDoes it stink like rotten meat?\nOr crust and sugar over—\nlike a syrupy sweet?\n\nMaybe it just sags\nlike a heavy load.\n\nOr does it explode?",
+      "source": "Langston Hughes, 1951",
+      "type": "literary"
     }
   ],
   "questions": [
@@ -166,6 +187,168 @@
       ],
       "correctAnswer": "C",
       "explanation": "The 'lone and level sands' stretching 'far away' evoke an infinite, featureless expanse that is utterly indifferent to the fallen monument. The words 'lone,' 'level,' 'boundless,' and 'bare' accumulate to create a powerful sense of emptiness that dwarfs human ambition."
+    },
+    {
+      "id": "hs-lit-q9",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 244,
+      "skill": "theme-synthesis",
+      "skillLabel": "Theme Synthesis",
+      "passageId": "hs-lit-p4",
+      "questionText": "The central irony of \"The Road Not Taken\" is that:",
+      "choices": [
+        { "label": "A", "text": "The speaker never actually chose between the two roads" },
+        { "label": "B", "text": "The speaker claims to have taken the less traveled road, though both were 'really about the same'" },
+        { "label": "C", "text": "The speaker regrets the choice immediately after making it" },
+        { "label": "D", "text": "The yellow wood prevents the speaker from seeing either road clearly" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The speaker observes that both roads 'equally lay' and were 'worn... really about the same,' yet concludes by claiming 'I took the one less traveled by, / And that has made all the difference.' This contradiction reveals how people retrospectively construct narratives about their choices being more significant than they actually were."
+    },
+    {
+      "id": "hs-lit-q10",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 254,
+      "skill": "symbolism",
+      "skillLabel": "Symbolism",
+      "passageId": "hs-lit-p4",
+      "questionText": "In 'The Road Not Taken,' the phrase 'knowing how way leads on to way' most directly suggests:",
+      "choices": [
+        { "label": "A", "text": "The speaker's awareness that one choice leads to another, making return impossible" },
+        { "label": "B", "text": "The speaker's belief that all paths eventually converge" },
+        { "label": "C", "text": "The speaker's confidence in making the right decision" },
+        { "label": "D", "text": "The speaker's preference for exploration over commitment" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The speaker recognizes that each choice opens new paths while foreclosing others — 'way leads on to way' captures how decisions cascade forward, making it impossible to return and try the alternative. This understanding motivates the speaker's doubt about ever coming back to the first road."
+    },
+    {
+      "id": "hs-lit-q11",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 236,
+      "skill": "figurative-language",
+      "skillLabel": "Figurative Language",
+      "passageId": "hs-lit-p5",
+      "questionText": "In 'Still I Rise,' the simile 'like dust, I'll rise' primarily emphasizes:",
+      "choices": [
+        { "label": "A", "text": "The speaker's fragility and vulnerability" },
+        { "label": "B", "text": "The speaker's inevitable resilience despite attempts to suppress her" },
+        { "label": "C", "text": "The speaker's desire to disappear" },
+        { "label": "D", "text": "The speaker's connection to the earth" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dust, when trodden down, inevitably rises back up — it cannot be permanently suppressed. This simile establishes the speaker's unstoppable resilience: even when 'tread[den] in the very dirt,' she will rise again, just as dust naturally does."
+    },
+    {
+      "id": "hs-lit-q12",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 246,
+      "skill": "rhetorical-analysis",
+      "skillLabel": "Rhetorical Analysis",
+      "passageId": "hs-lit-p5",
+      "questionText": "The repeated rhetorical questions throughout 'Still I Rise' (such as 'Does my sassiness upset you?') primarily function to:",
+      "choices": [
+        { "label": "A", "text": "Express genuine confusion about the oppressor's motivations" },
+        { "label": "B", "text": "Challenge and mock the oppressor while asserting the speaker's power" },
+        { "label": "C", "text": "Request permission to continue rising" },
+        { "label": "D", "text": "Apologize for causing discomfort" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The rhetorical questions are confident and defiant, not seeking actual answers. They taunt the oppressor ('Why are you beset with gloom?'), highlighting the speaker's awareness that her confidence and success disturb those who wish to see her 'broken.' This questioning technique asserts power while mocking those who oppose her."
+    },
+    {
+      "id": "hs-lit-q13",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 256,
+      "skill": "theme-synthesis",
+      "skillLabel": "Theme Synthesis",
+      "passageId": "hs-lit-p5",
+      "questionText": "The line 'I am the dream and the hope of the slave' connects the speaker's personal resilience to:",
+      "choices": [
+        { "label": "A", "text": "A specific historical event from the Civil War" },
+        { "label": "B", "text": "The collective aspirations and survival of African Americans across generations" },
+        { "label": "C", "text": "The speaker's family history exclusively" },
+        { "label": "D", "text": "A rejection of the past in favor of the future" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "By declaring herself 'the dream and the hope of the slave,' the speaker positions her personal triumph as the fulfillment of her ancestors' aspirations. The phrase 'gifts that my ancestors gave' reinforces that her rising is not individual but carries forward the resilience and dreams of enslaved people throughout history."
+    },
+    {
+      "id": "hs-lit-q14",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 248,
+      "skill": "figurative-language",
+      "skillLabel": "Figurative Language",
+      "passageId": "hs-lit-p6",
+      "questionText": "In 'Harlem,' the series of similes (raisin, sore, rotten meat, syrupy sweet) creates what overall effect?",
+      "choices": [
+        { "label": "A", "text": "A celebration of diversity and variety" },
+        { "label": "B", "text": "A progression from mild decay to dangerous festering" },
+        { "label": "C", "text": "A sense of natural cycles and renewal" },
+        { "label": "D", "text": "An appreciation for simple pleasures" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The similes progress from drying up (passive decay) to festering and stinking (active corruption), building tension toward potential explosion. Each image becomes more visceral and unpleasant, suggesting that deferred dreams don't simply fade — they intensify and potentially become dangerous."
+    },
+    {
+      "id": "hs-lit-q15",
+      "type": "literary",
+      "difficulty": "hard",
+      "ritLevel": 257,
+      "skill": "symbolism",
+      "skillLabel": "Symbolism",
+      "passageId": "hs-lit-p6",
+      "questionText": "The final line 'Or does it explode?' differs from the preceding lines by:",
+      "choices": [
+        { "label": "A", "text": "Being the only line that doesn't use a simile" },
+        { "label": "B", "text": "Suggesting violent action rather than passive decay" },
+        { "label": "C", "text": "Offering a positive resolution to the deferred dream" },
+        { "label": "D", "text": "Returning to the opening question without development" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "While previous images describe passive deterioration (drying, sagging, festering), 'explode' introduces active, violent potential. Standing alone as a single question, this line suggests that deferred dreams may not simply decay quietly but could erupt in social upheaval — a particularly resonant warning in the context of the Civil Rights era."
+    },
+    {
+      "id": "hs-lit-q16",
+      "type": "literary",
+      "difficulty": "easy",
+      "ritLevel": 238,
+      "skill": "rhetorical-analysis",
+      "skillLabel": "Rhetorical Analysis",
+      "passageId": "hs-lit-p6",
+      "questionText": "The opening line 'What happens to a dream deferred?' functions as:",
+      "choices": [
+        { "label": "A", "text": "A rhetorical question that the poem explores through multiple scenarios" },
+        { "label": "B", "text": "A direct question requiring a single definitive answer" },
+        { "label": "C", "text": "An expression of personal confusion" },
+        { "label": "D", "text": "A celebration of delayed gratification" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The opening question frames the entire poem's structure. Rather than answering directly, Hughes explores multiple possibilities through vivid similes, each offering a different potential outcome. The question format invites readers to consider the various fates of postponed dreams rather than settling on one answer."
+    },
+    {
+      "id": "hs-lit-q17",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 250,
+      "skill": "theme-synthesis",
+      "skillLabel": "Theme Synthesis",
+      "passageId": "hs-lit-p4",
+      "questionText": "The phrase 'I shall be telling this with a sigh / Somewhere ages and ages hence' reveals that the speaker:",
+      "choices": [
+        { "label": "A", "text": "Will regret the choice for the rest of their life" },
+        { "label": "B", "text": "Recognizes they will construct a meaningful narrative about the choice in hindsight" },
+        { "label": "C", "text": "Plans to return to the fork in the road" },
+        { "label": "D", "text": "Is confident they made the objectively correct decision" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The speaker anticipates telling this story 'with a sigh' in the distant future, self-aware that they will retrospectively frame the choice as significant ('made all the difference') even though the roads were actually equivalent. This reveals understanding of how humans narrativize their past to create meaning."
     }
   ]
 }
