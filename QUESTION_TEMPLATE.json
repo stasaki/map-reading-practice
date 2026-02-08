@@ -1,0 +1,49 @@
+{
+  "passages": [
+    {
+      "id": "TEMPLATE-p1",
+      "title": "Title of Your Passage",
+      "text": "First paragraph of your passage goes here. Keep it clear and appropriate for the grade level.\n\nSecond paragraph continues the content. Passages are typically 2-3 paragraphs for elementary, and can be longer for high school.\n\nThird paragraph (optional) can provide additional context or conclusion.",
+      "source": "Original passage (or cite your source)",
+      "type": "literary"
+    }
+  ],
+  "questions": [
+    {
+      "id": "TEMPLATE-q1-standalone-vocab",
+      "type": "vocabulary",
+      "difficulty": "easy",
+      "ritLevel": 186,
+      "skill": "context-clues",
+      "skillLabel": "Context Clues",
+      "passageId": null,
+      "questionText": "Your question text goes here. Make it clear and specific.",
+      "choices": [
+        { "label": "A", "text": "First choice" },
+        { "label": "B", "text": "Second choice (correct answer)" },
+        { "label": "C", "text": "Third choice" },
+        { "label": "D", "text": "Fourth choice" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Explain why B is correct and reference specific evidence or reasoning."
+    },
+    {
+      "id": "TEMPLATE-q2-with-passage",
+      "type": "literary",
+      "difficulty": "medium",
+      "ritLevel": 200,
+      "skill": "character-analysis",
+      "skillLabel": "Character Analysis",
+      "passageId": "TEMPLATE-p1",
+      "questionText": "Question about the passage above. Reference specific details from the text.",
+      "choices": [
+        { "label": "A", "text": "First choice" },
+        { "label": "B", "text": "Second choice" },
+        { "label": "C", "text": "Third choice (correct answer)" },
+        { "label": "D", "text": "Fourth choice" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Explain why C is correct by citing specific evidence from the passage."
+    }
+  ]
+}
